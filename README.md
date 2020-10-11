@@ -4,4 +4,4 @@
 
 ### bs4(python) for webscrapping, D3.js for data visualization.
 
-[Sonuca burda görebilirsiniz.](https://bl.ocks.org/makman12/raw/64ef58dc33f86032c9ed69251e1d2a99/)
+[Sonucu burda görebilirsiniz.](https://bl.ocks.org/makman12/raw/64ef58dc33f86032c9ed69251e1d2a99/)
