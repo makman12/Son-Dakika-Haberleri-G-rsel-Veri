@@ -1,0 +1,2280 @@
+{
+  "nodes": [
+    { "id": "daki\u0307ka", "group": 10 },
+    { "id": "haberi\u0307", "group": 3 },
+    { "id": "fiyatlar\u0131", "group": 2 },
+    { "id": "kadar", "group": 3 },
+    { "id": "alt\u0131n", "group": 4 },
+    { "id": "dolar", "group": 5 },
+    { "id": "bug\u00fcn", "group": 6 },
+    { "id": "corona", "group": 7 },
+    { "id": "\u00e7eyrek", "group": 8 },
+    { "id": "cumhurba\u015fkan\u0131", "group": 9 },
+    { "id": "erdo\u011fan", "group": 10 },
+    { "id": "t\u00fcrkiye", "group": 11 },
+    { "id": "bakan", "group": 12 },
+    { "id": "vir\u00fcs", "group": 13 },
+    { "id": "g\u00fcncel", "group": 14 },
+    { "id": "kayb\u0131", "group": 15 },
+    { "id": "a\u00e7\u0131klamas\u0131", "group": 16 },
+    { "id": "ter\u00f6rist", "group": 17 },
+    { "id": "bakan\u0131", "group": 18 },
+    { "id": "ba\u015fkan\u0131", "group": 19 },
+    { "id": "i\u0307stanbul", "group": 20 },
+    { "id": "anl\u0131k", "group": 21 },
+    { "id": "etkisiz", "group": 22 },
+    { "id": "getirildi", "group": 23 },
+    { "id": "deprem", "group": 24 },
+    { "id": "g\u00f6r\u00fc\u015ft\u00fc", "group": 25 },
+    { "id": "karar\u0131", "group": 26 },
+    { "id": "milli", "group": 27 },
+    { "id": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde", "group": 28 },
+    { "id": "bakanl\u0131\u011f\u0131", "group": 29 },
+    { "id": "g\u00f6zalt\u0131", "group": 30 },
+    { "id": "i\u0307dlib", "group": 31 },
+    { "id": "operasyonu", "group": 32 },
+    { "id": "a\u00e7\u0131klad\u0131", "group": 33 },
+    { "id": "a\u00e7\u0131klama", "group": 34 },
+    { "id": "i\u0307\u00e7i\u015fleri", "group": 35 },
+    { "id": "tablosu", "group": 36 },
+    { "id": "a\u00e7\u0131kland\u0131", "group": 37 },
+    { "id": "belli", "group": 38 },
+    { "id": "d\u0131\u015fi\u015fleri", "group": 39 },
+    { "id": "temmuz", "group": 40 },
+    { "id": "vir\u00fcsten", "group": 41 },
+    { "id": "ili\u015fkin", "group": 42 },
+    { "id": "eyl\u00fcl", "group": 43 },
+    { "id": "sa\u011fl\u0131k", "group": 44 },
+    { "id": "\u00e7avu\u015fo\u011flu", "group": 45 },
+    { "id": "haziran", "group": 46 },
+    { "id": "a\u011fustos", "group": 47 },
+    { "id": "\u015fehit", "group": 48 },
+    { "id": "parti", "group": 49 }
+  ],
+  "links": [
+    { "source": "daki\u0307ka", "target": "haberi\u0307", "value": 995 },
+    { "source": "daki\u0307ka", "target": "bakan", "value": 45 },
+    {
+      "source": "daki\u0307ka",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 59
+    },
+    { "source": "daki\u0307ka", "target": "karar\u0131", "value": 28 },
+    {
+      "source": "daki\u0307ka",
+      "target": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "value": 37
+    },
+    { "source": "daki\u0307ka", "target": "deprem", "value": 47 },
+    { "source": "daki\u0307ka", "target": "t\u00fcrkiye", "value": 92 },
+    { "source": "daki\u0307ka", "target": "belli", "value": 31 },
+    {
+      "source": "daki\u0307ka",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 35
+    },
+    {
+      "source": "daki\u0307ka",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 27
+    },
+    { "source": "daki\u0307ka", "target": "i\u0307stanbul", "value": 26 },
+    {
+      "source": "daki\u0307ka",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 21
+    },
+    { "source": "daki\u0307ka", "target": "ter\u00f6rist", "value": 31 },
+    { "source": "daki\u0307ka", "target": "etkisiz", "value": 30 },
+    { "source": "daki\u0307ka", "target": "getirildi", "value": 29 },
+    {
+      "source": "daki\u0307ka",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 35
+    },
+    { "source": "daki\u0307ka", "target": "vir\u00fcs", "value": 53 },
+    {
+      "source": "daki\u0307ka",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 98
+    },
+    { "source": "daki\u0307ka", "target": "erdo\u011fan", "value": 101 },
+    {
+      "source": "daki\u0307ka",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 57
+    },
+    { "source": "daki\u0307ka", "target": "milli", "value": 22 },
+    {
+      "source": "daki\u0307ka",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 11
+    },
+    { "source": "daki\u0307ka", "target": "ili\u015fkin", "value": 20 },
+    { "source": "daki\u0307ka", "target": "a\u00e7\u0131klama", "value": 20 },
+    { "source": "daki\u0307ka", "target": "corona", "value": 93 },
+    { "source": "daki\u0307ka", "target": "ba\u015fkan\u0131", "value": 41 },
+    { "source": "daki\u0307ka", "target": "eyl\u00fcl", "value": 5 },
+    { "source": "daki\u0307ka", "target": "g\u00f6zalt\u0131", "value": 9 },
+    { "source": "daki\u0307ka", "target": "parti", "value": 24 },
+    { "source": "daki\u0307ka", "target": "a\u011fustos", "value": 3 },
+    {
+      "source": "daki\u0307ka",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 40
+    },
+    { "source": "daki\u0307ka", "target": "dolar", "value": 1 },
+    { "source": "daki\u0307ka", "target": "tablosu", "value": 11 },
+    { "source": "daki\u0307ka", "target": "kayb\u0131", "value": 53 },
+    { "source": "daki\u0307ka", "target": "bakan\u0131", "value": 48 },
+    { "source": "daki\u0307ka", "target": "i\u0307dlib", "value": 28 },
+    { "source": "daki\u0307ka", "target": "operasyonu", "value": 14 },
+    { "source": "daki\u0307ka", "target": "\u015fehit", "value": 14 },
+    { "source": "daki\u0307ka", "target": "sa\u011fl\u0131k", "value": 19 },
+    { "source": "daki\u0307ka", "target": "vir\u00fcsten", "value": 34 },
+    { "source": "daki\u0307ka", "target": "kadar", "value": 9 },
+    { "source": "daki\u0307ka", "target": "haziran", "value": 11 },
+    { "source": "daki\u0307ka", "target": "bug\u00fcn", "value": 4 },
+    { "source": "daki\u0307ka", "target": "temmuz", "value": 1 },
+    { "source": "haberi\u0307", "target": "daki\u0307ka", "value": 995 },
+    { "source": "haberi\u0307", "target": "bakan", "value": 45 },
+    {
+      "source": "haberi\u0307",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 55
+    },
+    { "source": "haberi\u0307", "target": "karar\u0131", "value": 26 },
+    { "source": "haberi\u0307", "target": "t\u00fcrkiye", "value": 88 },
+    { "source": "haberi\u0307", "target": "belli", "value": 24 },
+    {
+      "source": "haberi\u0307",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 35
+    },
+    {
+      "source": "haberi\u0307",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 27
+    },
+    { "source": "haberi\u0307", "target": "i\u0307stanbul", "value": 24 },
+    {
+      "source": "haberi\u0307",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 18
+    },
+    { "source": "haberi\u0307", "target": "ter\u00f6rist", "value": 31 },
+    { "source": "haberi\u0307", "target": "etkisiz", "value": 30 },
+    { "source": "haberi\u0307", "target": "getirildi", "value": 29 },
+    {
+      "source": "haberi\u0307",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 35
+    },
+    { "source": "haberi\u0307", "target": "vir\u00fcs", "value": 49 },
+    {
+      "source": "haberi\u0307",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 96
+    },
+    { "source": "haberi\u0307", "target": "erdo\u011fan", "value": 99 },
+    {
+      "source": "haberi\u0307",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 56
+    },
+    { "source": "haberi\u0307", "target": "ili\u015fkin", "value": 19 },
+    { "source": "haberi\u0307", "target": "a\u00e7\u0131klama", "value": 19 },
+    { "source": "haberi\u0307", "target": "corona", "value": 86 },
+    { "source": "haberi\u0307", "target": "ba\u015fkan\u0131", "value": 38 },
+    { "source": "haberi\u0307", "target": "eyl\u00fcl", "value": 4 },
+    { "source": "haberi\u0307", "target": "g\u00f6zalt\u0131", "value": 9 },
+    { "source": "haberi\u0307", "target": "parti", "value": 24 },
+    {
+      "source": "haberi\u0307",
+      "target": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "value": 31
+    },
+    { "source": "haberi\u0307", "target": "deprem", "value": 39 },
+    { "source": "haberi\u0307", "target": "a\u011fustos", "value": 3 },
+    {
+      "source": "haberi\u0307",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 40
+    },
+    { "source": "haberi\u0307", "target": "dolar", "value": 1 },
+    { "source": "haberi\u0307", "target": "tablosu", "value": 11 },
+    { "source": "haberi\u0307", "target": "kayb\u0131", "value": 50 },
+    { "source": "haberi\u0307", "target": "milli", "value": 19 },
+    { "source": "haberi\u0307", "target": "bakan\u0131", "value": 46 },
+    { "source": "haberi\u0307", "target": "i\u0307dlib", "value": 27 },
+    { "source": "haberi\u0307", "target": "operasyonu", "value": 14 },
+    { "source": "haberi\u0307", "target": "\u015fehit", "value": 14 },
+    { "source": "haberi\u0307", "target": "sa\u011fl\u0131k", "value": 19 },
+    { "source": "haberi\u0307", "target": "vir\u00fcsten", "value": 33 },
+    {
+      "source": "haberi\u0307",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 10
+    },
+    { "source": "haberi\u0307", "target": "haziran", "value": 10 },
+    { "source": "haberi\u0307", "target": "bug\u00fcn", "value": 4 },
+    { "source": "haberi\u0307", "target": "kadar", "value": 7 },
+    { "source": "haberi\u0307", "target": "temmuz", "value": 1 },
+    { "source": "fiyatlar\u0131", "target": "\u00e7eyrek", "value": 218 },
+    { "source": "fiyatlar\u0131", "target": "alt\u0131n", "value": 244 },
+    { "source": "fiyatlar\u0131", "target": "bug\u00fcn", "value": 423 },
+    { "source": "fiyatlar\u0131", "target": "kadar", "value": 486 },
+    { "source": "fiyatlar\u0131", "target": "g\u00fcncel", "value": 204 },
+    { "source": "fiyatlar\u0131", "target": "dolar", "value": 250 },
+    { "source": "fiyatlar\u0131", "target": "eyl\u00fcl", "value": 43 },
+    { "source": "fiyatlar\u0131", "target": "anl\u0131k", "value": 140 },
+    { "source": "fiyatlar\u0131", "target": "a\u011fustos", "value": 38 },
+    { "source": "fiyatlar\u0131", "target": "temmuz", "value": 44 },
+    { "source": "fiyatlar\u0131", "target": "haziran", "value": 42 },
+    { "source": "fiyatlar\u0131", "target": "daki\u0307ka", "value": 3 },
+    { "source": "fiyatlar\u0131", "target": "haberi\u0307", "value": 2 },
+    { "source": "fiyatlar\u0131", "target": "ba\u015fkan\u0131", "value": 1 },
+    {
+      "source": "fiyatlar\u0131",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 1
+    },
+    { "source": "fiyatlar\u0131", "target": "bakan", "value": 1 },
+    { "source": "fiyatlar\u0131", "target": "ili\u015fkin", "value": 1 },
+    { "source": "fiyatlar\u0131", "target": "a\u00e7\u0131klama", "value": 1 },
+    { "source": "kadar", "target": "\u00e7eyrek", "value": 216 },
+    { "source": "kadar", "target": "alt\u0131n", "value": 242 },
+    { "source": "kadar", "target": "fiyatlar\u0131", "value": 477 },
+    { "source": "kadar", "target": "bug\u00fcn", "value": 427 },
+    { "source": "kadar", "target": "g\u00fcncel", "value": 202 },
+    { "source": "kadar", "target": "dolar", "value": 248 },
+    { "source": "kadar", "target": "i\u0307\u00e7i\u015fleri", "value": 1 },
+    { "source": "kadar", "target": "bakanl\u0131\u011f\u0131", "value": 1 },
+    { "source": "kadar", "target": "eyl\u00fcl", "value": 43 },
+    { "source": "kadar", "target": "parti", "value": 1 },
+    { "source": "kadar", "target": "cumhurba\u015fkan\u0131", "value": 3 },
+    { "source": "kadar", "target": "erdo\u011fan", "value": 3 },
+    { "source": "kadar", "target": "anl\u0131k", "value": 142 },
+    { "source": "kadar", "target": "corona", "value": 2 },
+    { "source": "kadar", "target": "vir\u00fcs", "value": 2 },
+    { "source": "kadar", "target": "a\u011fustos", "value": 37 },
+    { "source": "kadar", "target": "operasyonu", "value": 1 },
+    { "source": "kadar", "target": "ter\u00f6rist", "value": 1 },
+    { "source": "kadar", "target": "etkisiz", "value": 1 },
+    { "source": "kadar", "target": "getirildi", "value": 1 },
+    { "source": "kadar", "target": "bakan", "value": 4 },
+    { "source": "kadar", "target": "belli", "value": 3 },
+    { "source": "kadar", "target": "temmuz", "value": 44 },
+    { "source": "kadar", "target": "daki\u0307ka", "value": 9 },
+    { "source": "kadar", "target": "haziran", "value": 38 },
+    { "source": "kadar", "target": "haberi\u0307", "value": 7 },
+    { "source": "kadar", "target": "ili\u015fkin", "value": 2 },
+    { "source": "kadar", "target": "milli", "value": 3 },
+    { "source": "kadar", "target": "a\u00e7\u0131klad\u0131", "value": 1 },
+    { "source": "kadar", "target": "bakan\u0131", "value": 1 },
+    { "source": "kadar", "target": "ba\u015fkan\u0131", "value": 1 },
+    { "source": "kadar", "target": "a\u00e7\u0131klamas\u0131", "value": 1 },
+    { "source": "kadar", "target": "i\u0307stanbul", "value": 1 },
+    { "source": "kadar", "target": "karar\u0131", "value": 2 },
+    { "source": "kadar", "target": "a\u00e7\u0131kland\u0131", "value": 1 },
+    { "source": "kadar", "target": "a\u00e7\u0131klama", "value": 1 },
+    { "source": "alt\u0131n", "target": "\u00e7eyrek", "value": 220 },
+    { "source": "alt\u0131n", "target": "fiyatlar\u0131", "value": 244 },
+    { "source": "alt\u0131n", "target": "bug\u00fcn", "value": 180 },
+    { "source": "alt\u0131n", "target": "kadar", "value": 242 },
+    { "source": "alt\u0131n", "target": "g\u00fcncel", "value": 198 },
+    { "source": "alt\u0131n", "target": "karar\u0131", "value": 3 },
+    { "source": "alt\u0131n", "target": "eyl\u00fcl", "value": 21 },
+    { "source": "alt\u0131n", "target": "anl\u0131k", "value": 136 },
+    { "source": "alt\u0131n", "target": "daki\u0307ka", "value": 13 },
+    { "source": "alt\u0131n", "target": "a\u011fustos", "value": 17 },
+    { "source": "alt\u0131n", "target": "haberi\u0307", "value": 12 },
+    { "source": "alt\u0131n", "target": "temmuz", "value": 21 },
+    { "source": "alt\u0131n", "target": "bakan", "value": 3 },
+    { "source": "alt\u0131n", "target": "ba\u015fkan\u0131", "value": 2 },
+    { "source": "alt\u0131n", "target": "haziran", "value": 20 },
+    { "source": "alt\u0131n", "target": "t\u00fcrkiye", "value": 1 },
+    { "source": "alt\u0131n", "target": "corona", "value": 2 },
+    { "source": "alt\u0131n", "target": "vir\u00fcs", "value": 3 },
+    { "source": "alt\u0131n", "target": "kayb\u0131", "value": 2 },
+    { "source": "alt\u0131n", "target": "cumhurba\u015fkan\u0131", "value": 1 },
+    { "source": "alt\u0131n", "target": "erdo\u011fan", "value": 1 },
+    { "source": "alt\u0131n", "target": "sa\u011fl\u0131k", "value": 1 },
+    { "source": "alt\u0131n", "target": "bakan\u0131", "value": 1 },
+    { "source": "alt\u0131n", "target": "\u015fehit", "value": 1 },
+    {
+      "source": "alt\u0131n",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 3
+    },
+    {
+      "source": "alt\u0131n",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 2
+    },
+    { "source": "alt\u0131n", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "alt\u0131n", "target": "ili\u015fkin", "value": 1 },
+    { "source": "alt\u0131n", "target": "i\u0307stanbul", "value": 1 },
+    { "source": "alt\u0131n", "target": "deprem", "value": 1 },
+    { "source": "dolar", "target": "bug\u00fcn", "value": 248 },
+    { "source": "dolar", "target": "kadar", "value": 249 },
+    { "source": "dolar", "target": "fiyatlar\u0131", "value": 242 },
+    { "source": "dolar", "target": "eyl\u00fcl", "value": 22 },
+    { "source": "dolar", "target": "g\u00fcncel", "value": 8 },
+    { "source": "dolar", "target": "daki\u0307ka", "value": 1 },
+    { "source": "dolar", "target": "haberi\u0307", "value": 1 },
+    { "source": "dolar", "target": "a\u011fustos", "value": 21 },
+    { "source": "dolar", "target": "temmuz", "value": 23 },
+    { "source": "dolar", "target": "haziran", "value": 22 },
+    { "source": "dolar", "target": "corona", "value": 1 },
+    { "source": "dolar", "target": "vir\u00fcs", "value": 1 },
+    { "source": "dolar", "target": "alt\u0131n", "value": 1 },
+    { "source": "dolar", "target": "cumhurba\u015fkan\u0131", "value": 1 },
+    { "source": "dolar", "target": "erdo\u011fan", "value": 1 },
+    { "source": "dolar", "target": "anl\u0131k", "value": 6 },
+    { "source": "bug\u00fcn", "target": "\u00e7eyrek", "value": 159 },
+    { "source": "bug\u00fcn", "target": "alt\u0131n", "value": 180 },
+    { "source": "bug\u00fcn", "target": "fiyatlar\u0131", "value": 414 },
+    { "source": "bug\u00fcn", "target": "kadar", "value": 428 },
+    { "source": "bug\u00fcn", "target": "g\u00fcncel", "value": 162 },
+    { "source": "bug\u00fcn", "target": "dolar", "value": 247 },
+    { "source": "bug\u00fcn", "target": "daki\u0307ka", "value": 5 },
+    { "source": "bug\u00fcn", "target": "eyl\u00fcl", "value": 38 },
+    { "source": "bug\u00fcn", "target": "anl\u0131k", "value": 127 },
+    { "source": "bug\u00fcn", "target": "a\u011fustos", "value": 35 },
+    { "source": "bug\u00fcn", "target": "operasyonu", "value": 1 },
+    { "source": "bug\u00fcn", "target": "ter\u00f6rist", "value": 3 },
+    { "source": "bug\u00fcn", "target": "etkisiz", "value": 2 },
+    { "source": "bug\u00fcn", "target": "getirildi", "value": 2 },
+    { "source": "bug\u00fcn", "target": "temmuz", "value": 38 },
+    { "source": "bug\u00fcn", "target": "bakan", "value": 3 },
+    { "source": "bug\u00fcn", "target": "cumhurba\u015fkan\u0131", "value": 2 },
+    { "source": "bug\u00fcn", "target": "erdo\u011fan", "value": 2 },
+    { "source": "bug\u00fcn", "target": "haziran", "value": 30 },
+    { "source": "bug\u00fcn", "target": "i\u0307stanbul", "value": 6 },
+    { "source": "bug\u00fcn", "target": "haberi\u0307", "value": 4 },
+    { "source": "bug\u00fcn", "target": "sa\u011fl\u0131k", "value": 2 },
+    { "source": "bug\u00fcn", "target": "bakan\u0131", "value": 2 },
+    { "source": "bug\u00fcn", "target": "corona", "value": 1 },
+    { "source": "bug\u00fcn", "target": "vir\u00fcsten", "value": 1 },
+    { "source": "bug\u00fcn", "target": "i\u0307dlib", "value": 2 },
+    { "source": "bug\u00fcn", "target": "t\u00fcrkiye", "value": 1 },
+    {
+      "source": "bug\u00fcn",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 2
+    },
+    {
+      "source": "bug\u00fcn",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 2
+    },
+    { "source": "corona", "target": "vir\u00fcs", "value": 231 },
+    { "source": "corona", "target": "tablosu", "value": 92 },
+    { "source": "corona", "target": "kayb\u0131", "value": 177 },
+    { "source": "corona", "target": "eyl\u00fcl", "value": 23 },
+    { "source": "corona", "target": "t\u00fcrkiye", "value": 104 },
+    { "source": "corona", "target": "vir\u00fcsten", "value": 76 },
+    { "source": "corona", "target": "daki\u0307ka", "value": 97 },
+    { "source": "corona", "target": "haberi\u0307", "value": 90 },
+    { "source": "corona", "target": "belli", "value": 1 },
+    { "source": "corona", "target": "a\u00e7\u0131klad\u0131", "value": 7 },
+    { "source": "corona", "target": "kadar", "value": 2 },
+    { "source": "corona", "target": "a\u00e7\u0131klamas\u0131", "value": 14 },
+    { "source": "corona", "target": "a\u00e7\u0131klama", "value": 4 },
+    { "source": "corona", "target": "a\u011fustos", "value": 22 },
+    { "source": "corona", "target": "i\u0307\u00e7i\u015fleri", "value": 3 },
+    { "source": "corona", "target": "sa\u011fl\u0131k", "value": 16 },
+    { "source": "corona", "target": "bakanl\u0131\u011f\u0131", "value": 6 },
+    { "source": "corona", "target": "temmuz", "value": 19 },
+    { "source": "corona", "target": "ba\u015fkan\u0131", "value": 5 },
+    { "source": "corona", "target": "cumhurba\u015fkan\u0131", "value": 6 },
+    { "source": "corona", "target": "erdo\u011fan", "value": 7 },
+    { "source": "corona", "target": "haziran", "value": 16 },
+    { "source": "corona", "target": "ili\u015fkin", "value": 1 },
+    { "source": "corona", "target": "d\u0131\u015fi\u015fleri", "value": 1 },
+    { "source": "corona", "target": "bakan\u0131", "value": 15 },
+    { "source": "corona", "target": "\u00e7avu\u015fo\u011flu", "value": 1 },
+    { "source": "corona", "target": "bakan", "value": 7 },
+    { "source": "corona", "target": "i\u0307stanbul", "value": 1 },
+    { "source": "corona", "target": "g\u00f6zalt\u0131", "value": 2 },
+    { "source": "corona", "target": "bug\u00fcn", "value": 1 },
+    { "source": "corona", "target": "g\u00f6r\u00fc\u015ft\u00fc", "value": 1 },
+    { "source": "corona", "target": "dolar", "value": 1 },
+    { "source": "corona", "target": "parti", "value": 2 },
+    { "source": "\u00e7eyrek", "target": "alt\u0131n", "value": 222 },
+    { "source": "\u00e7eyrek", "target": "fiyatlar\u0131", "value": 220 },
+    { "source": "\u00e7eyrek", "target": "bug\u00fcn", "value": 160 },
+    { "source": "\u00e7eyrek", "target": "kadar", "value": 218 },
+    { "source": "\u00e7eyrek", "target": "g\u00fcncel", "value": 176 },
+    { "source": "\u00e7eyrek", "target": "eyl\u00fcl", "value": 21 },
+    { "source": "\u00e7eyrek", "target": "anl\u0131k", "value": 116 },
+    { "source": "\u00e7eyrek", "target": "a\u011fustos", "value": 16 },
+    {
+      "source": "\u00e7eyrek",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 1
+    },
+    { "source": "\u00e7eyrek", "target": "temmuz", "value": 20 },
+    { "source": "\u00e7eyrek", "target": "bakan", "value": 2 },
+    { "source": "\u00e7eyrek", "target": "t\u00fcrkiye", "value": 4 },
+    { "source": "\u00e7eyrek", "target": "haziran", "value": 20 },
+    { "source": "\u00e7eyrek", "target": "i\u0307stanbul", "value": 1 },
+    { "source": "\u00e7eyrek", "target": "belli", "value": 1 },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "erdo\u011fan",
+      "value": 281
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 63
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "daki\u0307ka",
+      "value": 99
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "haberi\u0307",
+      "value": 97
+    },
+    { "source": "cumhurba\u015fkan\u0131", "target": "kadar", "value": 3 },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "ba\u015fkan\u0131",
+      "value": 24
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "t\u00fcrkiye",
+      "value": 15
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 18
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "a\u011fustos",
+      "value": 1
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 7
+    },
+    { "source": "cumhurba\u015fkan\u0131", "target": "bug\u00fcn", "value": 2 },
+    { "source": "cumhurba\u015fkan\u0131", "target": "corona", "value": 2 },
+    { "source": "cumhurba\u015fkan\u0131", "target": "vir\u00fcs", "value": 4 },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "i\u0307stanbul",
+      "value": 4
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "sa\u011fl\u0131k",
+      "value": 1
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "ili\u015fkin",
+      "value": 7
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "a\u00e7\u0131klama",
+      "value": 8
+    },
+    { "source": "cumhurba\u015fkan\u0131", "target": "bakan", "value": 1 },
+    { "source": "cumhurba\u015fkan\u0131", "target": "milli", "value": 3 },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "i\u0307dlib",
+      "value": 9
+    },
+    { "source": "cumhurba\u015fkan\u0131", "target": "parti", "value": 3 },
+    { "source": "cumhurba\u015fkan\u0131", "target": "kayb\u0131", "value": 1 },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "bakan\u0131",
+      "value": 1
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 1
+    },
+    { "source": "cumhurba\u015fkan\u0131", "target": "\u015fehit", "value": 1 },
+    { "source": "cumhurba\u015fkan\u0131", "target": "deprem", "value": 1 },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "karar\u0131",
+      "value": 1
+    },
+    {
+      "source": "cumhurba\u015fkan\u0131",
+      "target": "ter\u00f6rist",
+      "value": 2
+    },
+    { "source": "cumhurba\u015fkan\u0131", "target": "etkisiz", "value": 1 },
+    { "source": "cumhurba\u015fkan\u0131", "target": "getirildi", "value": 1 },
+    {
+      "source": "erdo\u011fan",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 279
+    },
+    {
+      "source": "erdo\u011fan",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 67
+    },
+    { "source": "erdo\u011fan", "target": "daki\u0307ka", "value": 104 },
+    { "source": "erdo\u011fan", "target": "haberi\u0307", "value": 102 },
+    { "source": "erdo\u011fan", "target": "kadar", "value": 3 },
+    { "source": "erdo\u011fan", "target": "ba\u015fkan\u0131", "value": 25 },
+    {
+      "source": "erdo\u011fan",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 18
+    },
+    { "source": "erdo\u011fan", "target": "a\u011fustos", "value": 1 },
+    { "source": "erdo\u011fan", "target": "t\u00fcrkiye", "value": 13 },
+    {
+      "source": "erdo\u011fan",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 8
+    },
+    { "source": "erdo\u011fan", "target": "parti", "value": 1 },
+    { "source": "erdo\u011fan", "target": "bug\u00fcn", "value": 2 },
+    { "source": "erdo\u011fan", "target": "ili\u015fkin", "value": 8 },
+    { "source": "erdo\u011fan", "target": "a\u00e7\u0131klama", "value": 10 },
+    { "source": "erdo\u011fan", "target": "corona", "value": 3 },
+    { "source": "erdo\u011fan", "target": "vir\u00fcs", "value": 4 },
+    { "source": "erdo\u011fan", "target": "i\u0307stanbul", "value": 4 },
+    { "source": "erdo\u011fan", "target": "sa\u011fl\u0131k", "value": 1 },
+    { "source": "erdo\u011fan", "target": "karar\u0131", "value": 4 },
+    { "source": "erdo\u011fan", "target": "bakan", "value": 1 },
+    { "source": "erdo\u011fan", "target": "milli", "value": 3 },
+    { "source": "erdo\u011fan", "target": "i\u0307dlib", "value": 12 },
+    { "source": "erdo\u011fan", "target": "kayb\u0131", "value": 1 },
+    {
+      "source": "erdo\u011fan",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 1
+    },
+    { "source": "erdo\u011fan", "target": "bakan\u0131", "value": 1 },
+    {
+      "source": "erdo\u011fan",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 1
+    },
+    { "source": "erdo\u011fan", "target": "\u015fehit", "value": 1 },
+    { "source": "erdo\u011fan", "target": "deprem", "value": 1 },
+    { "source": "erdo\u011fan", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "erdo\u011fan", "target": "etkisiz", "value": 1 },
+    { "source": "erdo\u011fan", "target": "getirildi", "value": 1 },
+    { "source": "t\u00fcrkiye", "target": "daki\u0307ka", "value": 98 },
+    { "source": "t\u00fcrkiye", "target": "haberi\u0307", "value": 94 },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 12
+    },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 4
+    },
+    { "source": "t\u00fcrkiye", "target": "i\u0307stanbul", "value": 2 },
+    { "source": "t\u00fcrkiye", "target": "sa\u011fl\u0131k", "value": 8 },
+    { "source": "t\u00fcrkiye", "target": "bakan\u0131", "value": 13 },
+    { "source": "t\u00fcrkiye", "target": "corona", "value": 108 },
+    { "source": "t\u00fcrkiye", "target": "vir\u00fcsten", "value": 71 },
+    { "source": "t\u00fcrkiye", "target": "kayb\u0131", "value": 96 },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 15
+    },
+    { "source": "t\u00fcrkiye", "target": "bakan", "value": 11 },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 7
+    },
+    { "source": "t\u00fcrkiye", "target": "vir\u00fcs", "value": 29 },
+    { "source": "t\u00fcrkiye", "target": "a\u00e7\u0131klama", "value": 8 },
+    { "source": "t\u00fcrkiye", "target": "belli", "value": 5 },
+    { "source": "t\u00fcrkiye", "target": "getirildi", "value": 4 },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 5
+    },
+    { "source": "t\u00fcrkiye", "target": "erdo\u011fan", "value": 12 },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 5
+    },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 1
+    },
+    { "source": "t\u00fcrkiye", "target": "\u00e7eyrek", "value": 3 },
+    { "source": "t\u00fcrkiye", "target": "milli", "value": 3 },
+    { "source": "t\u00fcrkiye", "target": "ili\u015fkin", "value": 3 },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 1
+    },
+    { "source": "t\u00fcrkiye", "target": "parti", "value": 4 },
+    { "source": "t\u00fcrkiye", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "t\u00fcrkiye", "target": "haziran", "value": 4 },
+    { "source": "t\u00fcrkiye", "target": "tablosu", "value": 7 },
+    { "source": "t\u00fcrkiye", "target": "ba\u015fkan\u0131", "value": 6 },
+    { "source": "t\u00fcrkiye", "target": "bug\u00fcn", "value": 2 },
+    {
+      "source": "t\u00fcrkiye",
+      "target": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "value": 1
+    },
+    { "source": "t\u00fcrkiye", "target": "deprem", "value": 1 },
+    { "source": "t\u00fcrkiye", "target": "karar\u0131", "value": 1 },
+    { "source": "t\u00fcrkiye", "target": "i\u0307dlib", "value": 6 },
+    { "source": "t\u00fcrkiye", "target": "g\u00f6zalt\u0131", "value": 1 },
+    { "source": "t\u00fcrkiye", "target": "etkisiz", "value": 1 },
+    { "source": "bakan", "target": "daki\u0307ka", "value": 157 },
+    { "source": "bakan", "target": "haberi\u0307", "value": 154 },
+    { "source": "bakan", "target": "a\u00e7\u0131klamas\u0131", "value": 72 },
+    { "source": "bakan", "target": "i\u0307\u00e7i\u015fleri", "value": 64 },
+    { "source": "bakan", "target": "kadar", "value": 7 },
+    { "source": "bakan", "target": "g\u00f6zalt\u0131", "value": 3 },
+    { "source": "bakan", "target": "karar\u0131", "value": 3 },
+    { "source": "bakan", "target": "\u00e7avu\u015fo\u011flu", "value": 57 },
+    { "source": "bakan", "target": "d\u0131\u015fi\u015fleri", "value": 61 },
+    { "source": "bakan", "target": "t\u00fcrkiye", "value": 31 },
+    { "source": "bakan", "target": "i\u0307stanbul", "value": 10 },
+    { "source": "bakan", "target": "milli", "value": 45 },
+    { "source": "bakan", "target": "sa\u011fl\u0131k", "value": 59 },
+    { "source": "bakan", "target": "a\u00e7\u0131klad\u0131", "value": 54 },
+    { "source": "bakan", "target": "ba\u015fkan\u0131", "value": 4 },
+    { "source": "bakan", "target": "cumhurba\u015fkan\u0131", "value": 17 },
+    { "source": "bakan", "target": "erdo\u011fan", "value": 18 },
+    { "source": "bakan", "target": "g\u00f6r\u00fc\u015ft\u00fc", "value": 51 },
+    { "source": "bakan", "target": "operasyonu", "value": 3 },
+    { "source": "bakan", "target": "a\u011fustos", "value": 3 },
+    { "source": "bakan", "target": "ter\u00f6rist", "value": 12 },
+    { "source": "bakan", "target": "corona", "value": 38 },
+    { "source": "bakan", "target": "eyl\u00fcl", "value": 4 },
+    { "source": "bakan", "target": "ili\u015fkin", "value": 19 },
+    { "source": "bakan", "target": "a\u00e7\u0131klama", "value": 23 },
+    { "source": "bakan", "target": "a\u00e7\u0131kland\u0131", "value": 3 },
+    { "source": "bakan", "target": "\u00e7eyrek", "value": 1 },
+    { "source": "bakan", "target": "kayb\u0131", "value": 3 },
+    { "source": "bakan", "target": "bug\u00fcn", "value": 7 },
+    { "source": "bakan", "target": "temmuz", "value": 1 },
+    { "source": "bakan", "target": "belli", "value": 2 },
+    { "source": "bakan", "target": "vir\u00fcs", "value": 15 },
+    { "source": "bakan", "target": "vir\u00fcsten", "value": 8 },
+    { "source": "bakan", "target": "etkisiz", "value": 4 },
+    { "source": "bakan", "target": "getirildi", "value": 4 },
+    { "source": "bakan", "target": "\u015fehit", "value": 2 },
+    { "source": "bakan", "target": "i\u0307dlib", "value": 6 },
+    { "source": "bakan", "target": "deprem", "value": 2 },
+    { "source": "bakan", "target": "alt\u0131n", "value": 1 },
+    { "source": "vir\u00fcs", "target": "corona", "value": 349 },
+    { "source": "vir\u00fcs", "target": "tablosu", "value": 92 },
+    { "source": "vir\u00fcs", "target": "kayb\u0131", "value": 180 },
+    { "source": "vir\u00fcs", "target": "eyl\u00fcl", "value": 23 },
+    { "source": "vir\u00fcs", "target": "t\u00fcrkiye", "value": 107 },
+    { "source": "vir\u00fcs", "target": "daki\u0307ka", "value": 108 },
+    { "source": "vir\u00fcs", "target": "haberi\u0307", "value": 101 },
+    { "source": "vir\u00fcs", "target": "ili\u015fkin", "value": 3 },
+    { "source": "vir\u00fcs", "target": "a\u00e7\u0131klama", "value": 8 },
+    { "source": "vir\u00fcs", "target": "belli", "value": 1 },
+    { "source": "vir\u00fcs", "target": "a\u00e7\u0131klad\u0131", "value": 8 },
+    { "source": "vir\u00fcs", "target": "kadar", "value": 2 },
+    {
+      "source": "vir\u00fcs",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 16
+    },
+    { "source": "vir\u00fcs", "target": "a\u011fustos", "value": 22 },
+    {
+      "source": "vir\u00fcs",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 3
+    },
+    { "source": "vir\u00fcs", "target": "temmuz", "value": 19 },
+    { "source": "vir\u00fcs", "target": "ba\u015fkan\u0131", "value": 6 },
+    { "source": "vir\u00fcs", "target": "cumhurba\u015fkan\u0131", "value": 6 },
+    { "source": "vir\u00fcs", "target": "erdo\u011fan", "value": 7 },
+    { "source": "vir\u00fcs", "target": "haziran", "value": 15 },
+    { "source": "vir\u00fcs", "target": "sa\u011fl\u0131k", "value": 18 },
+    {
+      "source": "vir\u00fcs",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 6
+    },
+    {
+      "source": "vir\u00fcs",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 1
+    },
+    { "source": "vir\u00fcs", "target": "bakan\u0131", "value": 18 },
+    {
+      "source": "vir\u00fcs",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 2
+    },
+    { "source": "vir\u00fcs", "target": "bug\u00fcn", "value": 2 },
+    { "source": "vir\u00fcs", "target": "karar\u0131", "value": 1 },
+    { "source": "vir\u00fcs", "target": "bakan", "value": 7 },
+    { "source": "vir\u00fcs", "target": "parti", "value": 3 },
+    { "source": "vir\u00fcs", "target": "i\u0307stanbul", "value": 1 },
+    { "source": "vir\u00fcs", "target": "g\u00f6zalt\u0131", "value": 2 },
+    {
+      "source": "vir\u00fcs",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 1
+    },
+    { "source": "vir\u00fcs", "target": "dolar", "value": 1 },
+    { "source": "vir\u00fcs", "target": "milli", "value": 1 },
+    { "source": "vir\u00fcs", "target": "\u015fehit", "value": 1 },
+    { "source": "g\u00fcncel", "target": "\u00e7eyrek", "value": 176 },
+    { "source": "g\u00fcncel", "target": "alt\u0131n", "value": 198 },
+    { "source": "g\u00fcncel", "target": "fiyatlar\u0131", "value": 205 },
+    { "source": "g\u00fcncel", "target": "bug\u00fcn", "value": 163 },
+    { "source": "g\u00fcncel", "target": "kadar", "value": 203 },
+    { "source": "g\u00fcncel", "target": "dolar", "value": 9 },
+    { "source": "g\u00fcncel", "target": "eyl\u00fcl", "value": 17 },
+    { "source": "g\u00fcncel", "target": "anl\u0131k", "value": 137 },
+    { "source": "g\u00fcncel", "target": "a\u011fustos", "value": 15 },
+    { "source": "g\u00fcncel", "target": "temmuz", "value": 19 },
+    { "source": "g\u00fcncel", "target": "haziran", "value": 22 },
+    { "source": "kayb\u0131", "target": "corona", "value": 177 },
+    { "source": "kayb\u0131", "target": "vir\u00fcs", "value": 108 },
+    { "source": "kayb\u0131", "target": "tablosu", "value": 91 },
+    { "source": "kayb\u0131", "target": "eyl\u00fcl", "value": 23 },
+    { "source": "kayb\u0131", "target": "t\u00fcrkiye", "value": 95 },
+    { "source": "kayb\u0131", "target": "vir\u00fcsten", "value": 66 },
+    { "source": "kayb\u0131", "target": "daki\u0307ka", "value": 53 },
+    { "source": "kayb\u0131", "target": "haberi\u0307", "value": 50 },
+    { "source": "kayb\u0131", "target": "a\u011fustos", "value": 22 },
+    { "source": "kayb\u0131", "target": "temmuz", "value": 19 },
+    {
+      "source": "kayb\u0131",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 1
+    },
+    { "source": "kayb\u0131", "target": "bakan\u0131", "value": 3 },
+    { "source": "kayb\u0131", "target": "haziran", "value": 15 },
+    { "source": "kayb\u0131", "target": "sa\u011fl\u0131k", "value": 2 },
+    { "source": "kayb\u0131", "target": "cumhurba\u015fkan\u0131", "value": 1 },
+    { "source": "kayb\u0131", "target": "erdo\u011fan", "value": 1 },
+    { "source": "kayb\u0131", "target": "i\u0307dlib", "value": 1 },
+    { "source": "kayb\u0131", "target": "ba\u015fkan\u0131", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "daki\u0307ka",
+      "value": 61
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "haberi\u0307",
+      "value": 57
+    },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "bakan", "value": 37 },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 9
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 10
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 18
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "erdo\u011fan",
+      "value": 18
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "i\u0307stanbul",
+      "value": 5
+    },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "milli", "value": 13 },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "bakan\u0131",
+      "value": 25
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "ba\u015fkan\u0131",
+      "value": 15
+    },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "corona", "value": 13 },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "vir\u00fcs",
+      "value": 10
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 6
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "t\u00fcrkiye",
+      "value": 6
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "sa\u011fl\u0131k",
+      "value": 7
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "a\u011fustos",
+      "value": 1
+    },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "parti", "value": 6 },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 4
+    },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "operasyonu",
+      "value": 3
+    },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "belli", "value": 1 },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "kadar", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "i\u0307dlib",
+      "value": 8
+    },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "etkisiz", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klamas\u0131",
+      "target": "getirildi",
+      "value": 1
+    },
+    { "source": "a\u00e7\u0131klamas\u0131", "target": "deprem", "value": 1 },
+    { "source": "ter\u00f6rist", "target": "etkisiz", "value": 120 },
+    { "source": "ter\u00f6rist", "target": "getirildi", "value": 111 },
+    { "source": "ter\u00f6rist", "target": "daki\u0307ka", "value": 36 },
+    { "source": "ter\u00f6rist", "target": "haberi\u0307", "value": 36 },
+    { "source": "ter\u00f6rist", "target": "operasyonu", "value": 7 },
+    {
+      "source": "ter\u00f6rist",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 14
+    },
+    {
+      "source": "ter\u00f6rist",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 8
+    },
+    { "source": "ter\u00f6rist", "target": "i\u0307stanbul", "value": 2 },
+    { "source": "ter\u00f6rist", "target": "kadar", "value": 1 },
+    { "source": "ter\u00f6rist", "target": "\u015fehit", "value": 5 },
+    { "source": "ter\u00f6rist", "target": "milli", "value": 2 },
+    { "source": "ter\u00f6rist", "target": "bakan\u0131", "value": 3 },
+    { "source": "ter\u00f6rist", "target": "bakan", "value": 2 },
+    { "source": "ter\u00f6rist", "target": "t\u00fcrkiye", "value": 2 },
+    {
+      "source": "ter\u00f6rist",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 1
+    },
+    { "source": "ter\u00f6rist", "target": "bug\u00fcn", "value": 2 },
+    {
+      "source": "ter\u00f6rist",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 3
+    },
+    { "source": "ter\u00f6rist", "target": "erdo\u011fan", "value": 3 },
+    {
+      "source": "ter\u00f6rist",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 3
+    },
+    {
+      "source": "ter\u00f6rist",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 2
+    },
+    { "source": "bakan\u0131", "target": "milli", "value": 42 },
+    { "source": "bakan\u0131", "target": "sa\u011fl\u0131k", "value": 43 },
+    { "source": "bakan\u0131", "target": "t\u00fcrkiye", "value": 12 },
+    {
+      "source": "bakan\u0131",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 16
+    },
+    { "source": "bakan\u0131", "target": "erdo\u011fan", "value": 17 },
+    {
+      "source": "bakan\u0131",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 40
+    },
+    {
+      "source": "bakan\u0131",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 39
+    },
+    {
+      "source": "bakan\u0131",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 34
+    },
+    { "source": "bakan\u0131", "target": "daki\u0307ka", "value": 61 },
+    { "source": "bakan\u0131", "target": "haberi\u0307", "value": 59 },
+    {
+      "source": "bakan\u0131",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 25
+    },
+    { "source": "bakan\u0131", "target": "corona", "value": 21 },
+    { "source": "bakan\u0131", "target": "i\u0307stanbul", "value": 2 },
+    {
+      "source": "bakan\u0131",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 6
+    },
+    {
+      "source": "bakan\u0131",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 11
+    },
+    { "source": "bakan\u0131", "target": "ba\u015fkan\u0131", "value": 1 },
+    { "source": "bakan\u0131", "target": "ili\u015fkin", "value": 4 },
+    { "source": "bakan\u0131", "target": "a\u00e7\u0131klama", "value": 7 },
+    { "source": "bakan\u0131", "target": "eyl\u00fcl", "value": 1 },
+    { "source": "bakan\u0131", "target": "kayb\u0131", "value": 3 },
+    { "source": "bakan\u0131", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "bakan\u0131", "target": "a\u011fustos", "value": 1 },
+    { "source": "bakan\u0131", "target": "bakan", "value": 2 },
+    { "source": "bakan\u0131", "target": "vir\u00fcsten", "value": 5 },
+    { "source": "bakan\u0131", "target": "etkisiz", "value": 1 },
+    { "source": "bakan\u0131", "target": "getirildi", "value": 2 },
+    { "source": "bakan\u0131", "target": "vir\u00fcs", "value": 5 },
+    { "source": "bakan\u0131", "target": "bug\u00fcn", "value": 2 },
+    { "source": "bakan\u0131", "target": "kadar", "value": 1 },
+    { "source": "bakan\u0131", "target": "i\u0307dlib", "value": 4 },
+    { "source": "bakan\u0131", "target": "deprem", "value": 1 },
+    { "source": "ba\u015fkan\u0131", "target": "sa\u011fl\u0131k", "value": 3 },
+    { "source": "ba\u015fkan\u0131", "target": "ili\u015fkin", "value": 10 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "a\u00e7\u0131klama",
+      "value": 12
+    },
+    { "source": "ba\u015fkan\u0131", "target": "erdo\u011fan", "value": 283 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 69
+    },
+    { "source": "ba\u015fkan\u0131", "target": "daki\u0307ka", "value": 131 },
+    { "source": "ba\u015fkan\u0131", "target": "haberi\u0307", "value": 126 },
+    { "source": "ba\u015fkan\u0131", "target": "kadar", "value": 4 },
+    { "source": "ba\u015fkan\u0131", "target": "bakan", "value": 4 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 1
+    },
+    { "source": "ba\u015fkan\u0131", "target": "t\u00fcrkiye", "value": 21 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 32
+    },
+    { "source": "ba\u015fkan\u0131", "target": "a\u011fustos", "value": 1 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 10
+    },
+    { "source": "ba\u015fkan\u0131", "target": "milli", "value": 6 },
+    { "source": "ba\u015fkan\u0131", "target": "bakan\u0131", "value": 2 },
+    { "source": "ba\u015fkan\u0131", "target": "bug\u00fcn", "value": 2 },
+    { "source": "ba\u015fkan\u0131", "target": "corona", "value": 7 },
+    { "source": "ba\u015fkan\u0131", "target": "vir\u00fcs", "value": 5 },
+    { "source": "ba\u015fkan\u0131", "target": "belli", "value": 3 },
+    { "source": "ba\u015fkan\u0131", "target": "parti", "value": 4 },
+    { "source": "ba\u015fkan\u0131", "target": "i\u0307stanbul", "value": 5 },
+    { "source": "ba\u015fkan\u0131", "target": "karar\u0131", "value": 3 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 1
+    },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 1
+    },
+    { "source": "ba\u015fkan\u0131", "target": "i\u0307dlib", "value": 12 },
+    { "source": "ba\u015fkan\u0131", "target": "kayb\u0131", "value": 2 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 1
+    },
+    { "source": "ba\u015fkan\u0131", "target": "\u015fehit", "value": 1 },
+    { "source": "ba\u015fkan\u0131", "target": "deprem", "value": 1 },
+    {
+      "source": "ba\u015fkan\u0131",
+      "target": "g\u00f6zalt\u0131",
+      "value": 1
+    },
+    { "source": "ba\u015fkan\u0131", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "ba\u015fkan\u0131", "target": "etkisiz", "value": 1 },
+    { "source": "ba\u015fkan\u0131", "target": "getirildi", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "daki\u0307ka", "value": 28 },
+    { "source": "i\u0307stanbul", "target": "haberi\u0307", "value": 26 },
+    {
+      "source": "i\u0307stanbul",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 4
+    },
+    {
+      "source": "i\u0307stanbul",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 1
+    },
+    {
+      "source": "i\u0307stanbul",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 1
+    },
+    { "source": "i\u0307stanbul", "target": "t\u00fcrkiye", "value": 2 },
+    { "source": "i\u0307stanbul", "target": "sa\u011fl\u0131k", "value": 2 },
+    { "source": "i\u0307stanbul", "target": "belli", "value": 2 },
+    {
+      "source": "i\u0307stanbul",
+      "target": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "value": 3
+    },
+    { "source": "i\u0307stanbul", "target": "deprem", "value": 3 },
+    {
+      "source": "i\u0307stanbul",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 5
+    },
+    { "source": "i\u0307stanbul", "target": "operasyonu", "value": 8 },
+    { "source": "i\u0307stanbul", "target": "g\u00f6zalt\u0131", "value": 8 },
+    { "source": "i\u0307stanbul", "target": "karar\u0131", "value": 7 },
+    { "source": "i\u0307stanbul", "target": "getirildi", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "i\u0307stanbul", "target": "bakan\u0131", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "bakan", "value": 6 },
+    { "source": "i\u0307stanbul", "target": "a\u00e7\u0131klama", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "bug\u00fcn", "value": 3 },
+    {
+      "source": "i\u0307stanbul",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 4
+    },
+    { "source": "i\u0307stanbul", "target": "erdo\u011fan", "value": 4 },
+    { "source": "i\u0307stanbul", "target": "corona", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "vir\u00fcs", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "kadar", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "alt\u0131n", "value": 1 },
+    { "source": "i\u0307stanbul", "target": "ba\u015fkan\u0131", "value": 1 },
+    { "source": "anl\u0131k", "target": "g\u00f6zalt\u0131", "value": 1 },
+    { "source": "anl\u0131k", "target": "karar\u0131", "value": 1 },
+    { "source": "anl\u0131k", "target": "\u00e7eyrek", "value": 118 },
+    { "source": "anl\u0131k", "target": "alt\u0131n", "value": 138 },
+    { "source": "anl\u0131k", "target": "fiyatlar\u0131", "value": 142 },
+    { "source": "anl\u0131k", "target": "bug\u00fcn", "value": 127 },
+    { "source": "anl\u0131k", "target": "kadar", "value": 142 },
+    { "source": "anl\u0131k", "target": "eyl\u00fcl", "value": 2 },
+    { "source": "anl\u0131k", "target": "g\u00fcncel", "value": 139 },
+    { "source": "anl\u0131k", "target": "a\u011fustos", "value": 7 },
+    { "source": "anl\u0131k", "target": "daki\u0307ka", "value": 3 },
+    { "source": "anl\u0131k", "target": "haberi\u0307", "value": 3 },
+    { "source": "anl\u0131k", "target": "ili\u015fkin", "value": 2 },
+    { "source": "anl\u0131k", "target": "a\u00e7\u0131klama", "value": 2 },
+    { "source": "anl\u0131k", "target": "temmuz", "value": 12 },
+    { "source": "anl\u0131k", "target": "haziran", "value": 14 },
+    { "source": "anl\u0131k", "target": "corona", "value": 1 },
+    { "source": "anl\u0131k", "target": "vir\u00fcs", "value": 1 },
+    { "source": "anl\u0131k", "target": "dolar", "value": 6 },
+    {
+      "source": "anl\u0131k",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 1
+    },
+    { "source": "anl\u0131k", "target": "cumhurba\u015fkan\u0131", "value": 1 },
+    { "source": "anl\u0131k", "target": "erdo\u011fan", "value": 1 },
+    { "source": "anl\u0131k", "target": "ba\u015fkan\u0131", "value": 1 },
+    { "source": "etkisiz", "target": "ter\u00f6rist", "value": 115 },
+    { "source": "etkisiz", "target": "getirildi", "value": 128 },
+    { "source": "etkisiz", "target": "daki\u0307ka", "value": 30 },
+    { "source": "etkisiz", "target": "haberi\u0307", "value": 30 },
+    { "source": "etkisiz", "target": "operasyonu", "value": 7 },
+    { "source": "etkisiz", "target": "i\u0307\u00e7i\u015fleri", "value": 4 },
+    { "source": "etkisiz", "target": "kadar", "value": 1 },
+    { "source": "etkisiz", "target": "\u015fehit", "value": 1 },
+    { "source": "etkisiz", "target": "milli", "value": 1 },
+    { "source": "etkisiz", "target": "bakan\u0131", "value": 1 },
+    { "source": "etkisiz", "target": "bakan", "value": 3 },
+    { "source": "etkisiz", "target": "a\u00e7\u0131klamas\u0131", "value": 1 },
+    { "source": "etkisiz", "target": "i\u0307dlib", "value": 4 },
+    { "source": "etkisiz", "target": "bug\u00fcn", "value": 1 },
+    { "source": "etkisiz", "target": "\u00e7avu\u015fo\u011flu", "value": 1 },
+    { "source": "etkisiz", "target": "t\u00fcrkiye", "value": 1 },
+    { "source": "etkisiz", "target": "cumhurba\u015fkan\u0131", "value": 1 },
+    { "source": "etkisiz", "target": "erdo\u011fan", "value": 1 },
+    { "source": "getirildi", "target": "ter\u00f6rist", "value": 111 },
+    { "source": "getirildi", "target": "etkisiz", "value": 128 },
+    { "source": "getirildi", "target": "daki\u0307ka", "value": 29 },
+    { "source": "getirildi", "target": "haberi\u0307", "value": 29 },
+    { "source": "getirildi", "target": "i\u0307stanbul", "value": 1 },
+    { "source": "getirildi", "target": "operasyonu", "value": 7 },
+    { "source": "getirildi", "target": "i\u0307\u00e7i\u015fleri", "value": 4 },
+    { "source": "getirildi", "target": "t\u00fcrkiye", "value": 4 },
+    { "source": "getirildi", "target": "kadar", "value": 1 },
+    { "source": "getirildi", "target": "\u015fehit", "value": 1 },
+    { "source": "getirildi", "target": "milli", "value": 1 },
+    { "source": "getirildi", "target": "bakan\u0131", "value": 2 },
+    { "source": "getirildi", "target": "sa\u011fl\u0131k", "value": 2 },
+    { "source": "getirildi", "target": "bakan", "value": 2 },
+    {
+      "source": "getirildi",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 1
+    },
+    { "source": "getirildi", "target": "i\u0307dlib", "value": 4 },
+    { "source": "getirildi", "target": "bug\u00fcn", "value": 1 },
+    { "source": "getirildi", "target": "cumhurba\u015fkan\u0131", "value": 1 },
+    { "source": "getirildi", "target": "erdo\u011fan", "value": 1 },
+    { "source": "deprem", "target": "daki\u0307ka", "value": 50 },
+    {
+      "source": "deprem",
+      "target": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "value": 102
+    },
+    { "source": "deprem", "target": "i\u0307stanbul", "value": 3 },
+    { "source": "deprem", "target": "haberi\u0307", "value": 42 },
+    { "source": "deprem", "target": "t\u00fcrkiye", "value": 1 },
+    { "source": "deprem", "target": "kayb\u0131", "value": 1 },
+    { "source": "deprem", "target": "bakan", "value": 3 },
+    { "source": "deprem", "target": "bug\u00fcn", "value": 1 },
+    { "source": "deprem", "target": "sa\u011fl\u0131k", "value": 1 },
+    { "source": "deprem", "target": "a\u00e7\u0131kland\u0131", "value": 1 },
+    { "source": "deprem", "target": "a\u00e7\u0131klad\u0131", "value": 1 },
+    { "source": "deprem", "target": "cumhurba\u015fkan\u0131", "value": 2 },
+    { "source": "deprem", "target": "erdo\u011fan", "value": 2 },
+    { "source": "deprem", "target": "a\u00e7\u0131klamas\u0131", "value": 4 },
+    { "source": "deprem", "target": "i\u0307\u00e7i\u015fleri", "value": 1 },
+    { "source": "deprem", "target": "bakan\u0131", "value": 1 },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 63
+    },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "erdo\u011fan",
+      "value": 67
+    },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "daki\u0307ka",
+      "value": 57
+    },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "haberi\u0307",
+      "value": 56
+    },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "ba\u015fkan\u0131",
+      "value": 25
+    },
+    { "source": "g\u00f6r\u00fc\u015ft\u00fc", "target": "bakan", "value": 13 },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 20
+    },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "t\u00fcrkiye",
+      "value": 1
+    },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 14
+    },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "bakan\u0131",
+      "value": 22
+    },
+    { "source": "g\u00f6r\u00fc\u015ft\u00fc", "target": "milli", "value": 4 },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "sa\u011fl\u0131k",
+      "value": 1
+    },
+    { "source": "g\u00f6r\u00fc\u015ft\u00fc", "target": "corona", "value": 1 },
+    {
+      "source": "g\u00f6r\u00fc\u015ft\u00fc",
+      "target": "i\u0307dlib",
+      "value": 4
+    },
+    { "source": "karar\u0131", "target": "daki\u0307ka", "value": 37 },
+    { "source": "karar\u0131", "target": "haberi\u0307", "value": 32 },
+    { "source": "karar\u0131", "target": "alt\u0131n", "value": 2 },
+    { "source": "karar\u0131", "target": "g\u00f6zalt\u0131", "value": 50 },
+    {
+      "source": "karar\u0131",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 1
+    },
+    { "source": "karar\u0131", "target": "i\u0307stanbul", "value": 8 },
+    {
+      "source": "karar\u0131",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 6
+    },
+    { "source": "karar\u0131", "target": "operasyonu", "value": 23 },
+    {
+      "source": "karar\u0131",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 2
+    },
+    { "source": "karar\u0131", "target": "ba\u015fkan\u0131", "value": 2 },
+    { "source": "karar\u0131", "target": "vir\u00fcs", "value": 1 },
+    { "source": "karar\u0131", "target": "sa\u011fl\u0131k", "value": 1 },
+    {
+      "source": "karar\u0131",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 2
+    },
+    { "source": "karar\u0131", "target": "t\u00fcrkiye", "value": 1 },
+    { "source": "karar\u0131", "target": "i\u0307dlib", "value": 1 },
+    { "source": "karar\u0131", "target": "a\u00e7\u0131klama", "value": 1 },
+    { "source": "karar\u0131", "target": "ili\u015fkin", "value": 1 },
+    { "source": "karar\u0131", "target": "\u015fehit", "value": 1 },
+    { "source": "karar\u0131", "target": "kadar", "value": 2 },
+    { "source": "karar\u0131", "target": "belli", "value": 1 },
+    { "source": "karar\u0131", "target": "parti", "value": 1 },
+    {
+      "source": "karar\u0131",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 1
+    },
+    { "source": "karar\u0131", "target": "erdo\u011fan", "value": 2 },
+    { "source": "milli", "target": "bakan\u0131", "value": 43 },
+    { "source": "milli", "target": "daki\u0307ka", "value": 23 },
+    { "source": "milli", "target": "a\u00e7\u0131kland\u0131", "value": 21 },
+    { "source": "milli", "target": "eyl\u00fcl", "value": 3 },
+    { "source": "milli", "target": "haberi\u0307", "value": 19 },
+    { "source": "milli", "target": "a\u00e7\u0131klamas\u0131", "value": 13 },
+    { "source": "milli", "target": "ba\u015fkan\u0131", "value": 3 },
+    { "source": "milli", "target": "a\u011fustos", "value": 2 },
+    { "source": "milli", "target": "ili\u015fkin", "value": 1 },
+    { "source": "milli", "target": "a\u00e7\u0131klama", "value": 2 },
+    { "source": "milli", "target": "t\u00fcrkiye", "value": 2 },
+    { "source": "milli", "target": "temmuz", "value": 10 },
+    { "source": "milli", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "milli", "target": "haziran", "value": 4 },
+    { "source": "milli", "target": "belli", "value": 4 },
+    { "source": "milli", "target": "etkisiz", "value": 1 },
+    { "source": "milli", "target": "getirildi", "value": 1 },
+    { "source": "milli", "target": "a\u00e7\u0131klad\u0131", "value": 2 },
+    { "source": "milli", "target": "kadar", "value": 3 },
+    { "source": "milli", "target": "g\u00f6r\u00fc\u015ft\u00fc", "value": 4 },
+    { "source": "milli", "target": "cumhurba\u015fkan\u0131", "value": 2 },
+    { "source": "milli", "target": "erdo\u011fan", "value": 3 },
+    { "source": "milli", "target": "vir\u00fcs", "value": 1 },
+    { "source": "milli", "target": "i\u0307dlib", "value": 1 },
+    { "source": "milli", "target": "bakanl\u0131\u011f\u0131", "value": 2 },
+    {
+      "source": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "target": "daki\u0307ka",
+      "value": 37
+    },
+    {
+      "source": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "target": "deprem",
+      "value": 103
+    },
+    {
+      "source": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "target": "i\u0307stanbul",
+      "value": 2
+    },
+    {
+      "source": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "target": "haberi\u0307",
+      "value": 31
+    },
+    {
+      "source": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "target": "t\u00fcrkiye",
+      "value": 1
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 53
+    },
+    { "source": "bakanl\u0131\u011f\u0131", "target": "kadar", "value": 1 },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "daki\u0307ka",
+      "value": 39
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "haberi\u0307",
+      "value": 39
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 20
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "t\u00fcrkiye",
+      "value": 4
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "i\u0307stanbul",
+      "value": 1
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 9
+    },
+    { "source": "bakanl\u0131\u011f\u0131", "target": "milli", "value": 3 },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "operasyonu",
+      "value": 2
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "ter\u00f6rist",
+      "value": 8
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "sa\u011fl\u0131k",
+      "value": 11
+    },
+    { "source": "bakanl\u0131\u011f\u0131", "target": "corona", "value": 6 },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "a\u011fustos",
+      "value": 1
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "vir\u00fcs",
+      "value": 5
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "ili\u015fkin",
+      "value": 8
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "a\u00e7\u0131klama",
+      "value": 3
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 2
+    },
+    { "source": "bakanl\u0131\u011f\u0131", "target": "bakan", "value": 2 },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 1
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "karar\u0131",
+      "value": 2
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "g\u00f6zalt\u0131",
+      "value": 1
+    },
+    {
+      "source": "bakanl\u0131\u011f\u0131",
+      "target": "bug\u00fcn",
+      "value": 2
+    },
+    { "source": "g\u00f6zalt\u0131", "target": "operasyonu", "value": 43 },
+    { "source": "g\u00f6zalt\u0131", "target": "karar\u0131", "value": 51 },
+    { "source": "g\u00f6zalt\u0131", "target": "daki\u0307ka", "value": 14 },
+    { "source": "g\u00f6zalt\u0131", "target": "haberi\u0307", "value": 14 },
+    { "source": "g\u00f6zalt\u0131", "target": "i\u0307stanbul", "value": 8 },
+    {
+      "source": "g\u00f6zalt\u0131",
+      "target": "ba\u015fkan\u0131",
+      "value": 1
+    },
+    { "source": "g\u00f6zalt\u0131", "target": "bakan", "value": 1 },
+    {
+      "source": "g\u00f6zalt\u0131",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 1
+    },
+    { "source": "g\u00f6zalt\u0131", "target": "\u015fehit", "value": 2 },
+    { "source": "g\u00f6zalt\u0131", "target": "corona", "value": 2 },
+    { "source": "g\u00f6zalt\u0131", "target": "vir\u00fcs", "value": 1 },
+    {
+      "source": "g\u00f6zalt\u0131",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 1
+    },
+    {
+      "source": "g\u00f6zalt\u0131",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 1
+    },
+    { "source": "i\u0307dlib", "target": "daki\u0307ka", "value": 29 },
+    { "source": "i\u0307dlib", "target": "haberi\u0307", "value": 28 },
+    { "source": "i\u0307dlib", "target": "\u015fehit", "value": 14 },
+    { "source": "i\u0307dlib", "target": "ili\u015fkin", "value": 6 },
+    { "source": "i\u0307dlib", "target": "a\u00e7\u0131klama", "value": 7 },
+    {
+      "source": "i\u0307dlib",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 10
+    },
+    { "source": "i\u0307dlib", "target": "erdo\u011fan", "value": 12 },
+    { "source": "i\u0307dlib", "target": "karar\u0131", "value": 1 },
+    {
+      "source": "i\u0307dlib",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 3
+    },
+    { "source": "i\u0307dlib", "target": "bakan\u0131", "value": 4 },
+    {
+      "source": "i\u0307dlib",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 3
+    },
+    {
+      "source": "i\u0307dlib",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 8
+    },
+    { "source": "i\u0307dlib", "target": "parti", "value": 2 },
+    { "source": "i\u0307dlib", "target": "ba\u015fkan\u0131", "value": 3 },
+    { "source": "i\u0307dlib", "target": "etkisiz", "value": 4 },
+    { "source": "i\u0307dlib", "target": "getirildi", "value": 4 },
+    { "source": "i\u0307dlib", "target": "bug\u00fcn", "value": 2 },
+    { "source": "i\u0307dlib", "target": "t\u00fcrkiye", "value": 6 },
+    { "source": "i\u0307dlib", "target": "kayb\u0131", "value": 1 },
+    { "source": "i\u0307dlib", "target": "bakan", "value": 2 },
+    {
+      "source": "i\u0307dlib",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 4
+    },
+    { "source": "i\u0307dlib", "target": "milli", "value": 1 },
+    { "source": "i\u0307dlib", "target": "operasyonu", "value": 1 },
+    { "source": "operasyonu", "target": "g\u00f6zalt\u0131", "value": 45 },
+    {
+      "source": "operasyonu",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 2
+    },
+    { "source": "operasyonu", "target": "i\u0307stanbul", "value": 9 },
+    { "source": "operasyonu", "target": "karar\u0131", "value": 25 },
+    { "source": "operasyonu", "target": "ter\u00f6rist", "value": 7 },
+    { "source": "operasyonu", "target": "etkisiz", "value": 8 },
+    { "source": "operasyonu", "target": "getirildi", "value": 8 },
+    { "source": "operasyonu", "target": "daki\u0307ka", "value": 15 },
+    { "source": "operasyonu", "target": "haberi\u0307", "value": 15 },
+    { "source": "operasyonu", "target": "kadar", "value": 1 },
+    { "source": "operasyonu", "target": "\u015fehit", "value": 2 },
+    { "source": "operasyonu", "target": "bakan", "value": 1 },
+    {
+      "source": "operasyonu",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 3
+    },
+    {
+      "source": "operasyonu",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 1
+    },
+    { "source": "operasyonu", "target": "i\u0307dlib", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "daki\u0307ka",
+      "value": 21
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "haberi\u0307",
+      "value": 18
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "i\u0307stanbul",
+      "value": 4
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 2
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "sa\u011fl\u0131k",
+      "value": 3
+    },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "bakan", "value": 27 },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "t\u00fcrkiye",
+      "value": 7
+    },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "corona", "value": 6 },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "vir\u00fcs", "value": 3 },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 6
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "erdo\u011fan",
+      "value": 8
+    },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "eyl\u00fcl", "value": 1 },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "temmuz", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "bakan\u0131",
+      "value": 5
+    },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "belli", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "g\u00f6zalt\u0131",
+      "value": 1
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "ter\u00f6rist",
+      "value": 1
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "ili\u015fkin",
+      "value": 1
+    },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "kadar", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "vir\u00fcsten",
+      "value": 2
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "ba\u015fkan\u0131",
+      "value": 3
+    },
+    {
+      "source": "a\u00e7\u0131klad\u0131",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 1
+    },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "milli", "value": 1 },
+    { "source": "a\u00e7\u0131klad\u0131", "target": "\u015fehit", "value": 1 },
+    { "source": "a\u00e7\u0131klama", "target": "daki\u0307ka", "value": 83 },
+    { "source": "a\u00e7\u0131klama", "target": "haberi\u0307", "value": 78 },
+    { "source": "a\u00e7\u0131klama", "target": "bakan", "value": 45 },
+    {
+      "source": "a\u00e7\u0131klama",
+      "target": "ba\u015fkan\u0131",
+      "value": 21
+    },
+    {
+      "source": "a\u00e7\u0131klama",
+      "target": "sa\u011fl\u0131k",
+      "value": 9
+    },
+    { "source": "a\u00e7\u0131klama", "target": "ili\u015fkin", "value": 48 },
+    {
+      "source": "a\u00e7\u0131klama",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 10
+    },
+    {
+      "source": "a\u00e7\u0131klama",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 13
+    },
+    {
+      "source": "a\u00e7\u0131klama",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 26
+    },
+    { "source": "a\u00e7\u0131klama", "target": "erdo\u011fan", "value": 26 },
+    { "source": "a\u00e7\u0131klama", "target": "i\u0307stanbul", "value": 6 },
+    { "source": "a\u00e7\u0131klama", "target": "milli", "value": 15 },
+    { "source": "a\u00e7\u0131klama", "target": "bakan\u0131", "value": 32 },
+    { "source": "a\u00e7\u0131klama", "target": "corona", "value": 17 },
+    { "source": "a\u00e7\u0131klama", "target": "vir\u00fcs", "value": 16 },
+    {
+      "source": "a\u00e7\u0131klama",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 9
+    },
+    { "source": "a\u00e7\u0131klama", "target": "t\u00fcrkiye", "value": 13 },
+    { "source": "a\u00e7\u0131klama", "target": "eyl\u00fcl", "value": 1 },
+    { "source": "a\u00e7\u0131klama", "target": "parti", "value": 9 },
+    { "source": "a\u00e7\u0131klama", "target": "a\u011fustos", "value": 1 },
+    {
+      "source": "a\u00e7\u0131klama",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 6
+    },
+    { "source": "a\u00e7\u0131klama", "target": "operasyonu", "value": 3 },
+    { "source": "a\u00e7\u0131klama", "target": "belli", "value": 1 },
+    { "source": "a\u00e7\u0131klama", "target": "kadar", "value": 2 },
+    { "source": "a\u00e7\u0131klama", "target": "i\u0307dlib", "value": 15 },
+    { "source": "a\u00e7\u0131klama", "target": "karar\u0131", "value": 1 },
+    { "source": "a\u00e7\u0131klama", "target": "etkisiz", "value": 1 },
+    { "source": "a\u00e7\u0131klama", "target": "getirildi", "value": 1 },
+    { "source": "a\u00e7\u0131klama", "target": "deprem", "value": 1 },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 53
+    },
+    { "source": "i\u0307\u00e7i\u015fleri", "target": "kadar", "value": 1 },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 2
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "operasyonu",
+      "value": 2
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "daki\u0307ka",
+      "value": 41
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "haberi\u0307",
+      "value": 41
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "ter\u00f6rist",
+      "value": 13
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 6
+    },
+    { "source": "i\u0307\u00e7i\u015fleri", "target": "etkisiz", "value": 4 },
+    { "source": "i\u0307\u00e7i\u015fleri", "target": "getirildi", "value": 4 },
+    { "source": "i\u0307\u00e7i\u015fleri", "target": "corona", "value": 3 },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "vir\u00fcs",
+      "value": 4
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "bakan\u0131",
+      "value": 11
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "a\u011fustos",
+      "value": 1
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "kayb\u0131",
+      "value": 1
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "ili\u015fkin",
+      "value": 7
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "a\u00e7\u0131klama",
+      "value": 4
+    },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "\u015fehit",
+      "value": 1
+    },
+    { "source": "i\u0307\u00e7i\u015fleri", "target": "deprem", "value": 1 },
+    { "source": "i\u0307\u00e7i\u015fleri", "target": "parti", "value": 1 },
+    {
+      "source": "i\u0307\u00e7i\u015fleri",
+      "target": "bug\u00fcn",
+      "value": 2
+    },
+    { "source": "tablosu", "target": "corona", "value": 92 },
+    { "source": "tablosu", "target": "vir\u00fcs", "value": 91 },
+    { "source": "tablosu", "target": "kayb\u0131", "value": 91 },
+    { "source": "tablosu", "target": "eyl\u00fcl", "value": 23 },
+    { "source": "tablosu", "target": "daki\u0307ka", "value": 11 },
+    { "source": "tablosu", "target": "haberi\u0307", "value": 11 },
+    { "source": "tablosu", "target": "a\u011fustos", "value": 22 },
+    { "source": "tablosu", "target": "temmuz", "value": 19 },
+    { "source": "tablosu", "target": "haziran", "value": 14 },
+    { "source": "tablosu", "target": "t\u00fcrkiye", "value": 7 },
+    { "source": "tablosu", "target": "vir\u00fcsten", "value": 1 },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "eyl\u00fcl",
+      "value": 7
+    },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "daki\u0307ka",
+      "value": 11
+    },
+    { "source": "a\u00e7\u0131kland\u0131", "target": "milli", "value": 21 },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "a\u011fustos",
+      "value": 3
+    },
+    { "source": "a\u00e7\u0131kland\u0131", "target": "temmuz", "value": 15 },
+    { "source": "a\u00e7\u0131kland\u0131", "target": "haziran", "value": 6 },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "haberi\u0307",
+      "value": 10
+    },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "t\u00fcrkiye",
+      "value": 1
+    },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "karar\u0131",
+      "value": 2
+    },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "fiyatlar\u0131",
+      "value": 1
+    },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "sa\u011fl\u0131k",
+      "value": 2
+    },
+    {
+      "source": "a\u00e7\u0131kland\u0131",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 2
+    },
+    { "source": "a\u00e7\u0131kland\u0131", "target": "kadar", "value": 1 },
+    { "source": "belli", "target": "daki\u0307ka", "value": 32 },
+    { "source": "belli", "target": "haberi\u0307", "value": 25 },
+    { "source": "belli", "target": "corona", "value": 1 },
+    { "source": "belli", "target": "vir\u00fcs", "value": 1 },
+    { "source": "belli", "target": "i\u0307stanbul", "value": 2 },
+    { "source": "belli", "target": "eyl\u00fcl", "value": 1 },
+    { "source": "belli", "target": "cumhurba\u015fkan\u0131", "value": 1 },
+    { "source": "belli", "target": "kadar", "value": 3 },
+    { "source": "belli", "target": "a\u00e7\u0131klad\u0131", "value": 1 },
+    { "source": "belli", "target": "ba\u015fkan\u0131", "value": 3 },
+    { "source": "belli", "target": "t\u00fcrkiye", "value": 4 },
+    { "source": "belli", "target": "milli", "value": 4 },
+    { "source": "belli", "target": "a\u00e7\u0131klamas\u0131", "value": 1 },
+    { "source": "belli", "target": "ili\u015fkin", "value": 2 },
+    { "source": "belli", "target": "\u00e7eyrek", "value": 1 },
+    { "source": "belli", "target": "karar\u0131", "value": 1 },
+    { "source": "belli", "target": "a\u011fustos", "value": 1 },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "daki\u0307ka",
+      "value": 35
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "haberi\u0307",
+      "value": 35
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 20
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "t\u00fcrkiye",
+      "value": 12
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "i\u0307stanbul",
+      "value": 1
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 7
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "bakan\u0131",
+      "value": 39
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 34
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "a\u00e7\u0131klama",
+      "value": 1
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 14
+    },
+    { "source": "d\u0131\u015fi\u015fleri", "target": "corona", "value": 1 },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "vir\u00fcsten",
+      "value": 1
+    },
+    { "source": "d\u0131\u015fi\u015fleri", "target": "bakan", "value": 1 },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "i\u0307dlib",
+      "value": 3
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 1
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "erdo\u011fan",
+      "value": 1
+    },
+    {
+      "source": "d\u0131\u015fi\u015fleri",
+      "target": "ter\u00f6rist",
+      "value": 1
+    },
+    { "source": "temmuz", "target": "a\u00e7\u0131kland\u0131", "value": 15 },
+    { "source": "temmuz", "target": "belli", "value": 1 },
+    { "source": "temmuz", "target": "kadar", "value": 45 },
+    { "source": "temmuz", "target": "corona", "value": 19 },
+    { "source": "temmuz", "target": "vir\u00fcs", "value": 19 },
+    { "source": "temmuz", "target": "tablosu", "value": 19 },
+    { "source": "temmuz", "target": "kayb\u0131", "value": 19 },
+    { "source": "temmuz", "target": "alt\u0131n", "value": 21 },
+    { "source": "temmuz", "target": "fiyatlar\u0131", "value": 43 },
+    { "source": "temmuz", "target": "bug\u00fcn", "value": 37 },
+    { "source": "temmuz", "target": "g\u00fcncel", "value": 19 },
+    { "source": "temmuz", "target": "\u00e7eyrek", "value": 20 },
+    { "source": "temmuz", "target": "dolar", "value": 23 },
+    { "source": "temmuz", "target": "milli", "value": 10 },
+    { "source": "temmuz", "target": "bakan", "value": 1 },
+    { "source": "temmuz", "target": "a\u00e7\u0131klad\u0131", "value": 1 },
+    { "source": "temmuz", "target": "anl\u0131k", "value": 12 },
+    { "source": "temmuz", "target": "parti", "value": 1 },
+    { "source": "temmuz", "target": "daki\u0307ka", "value": 1 },
+    { "source": "temmuz", "target": "haberi\u0307", "value": 1 },
+    { "source": "vir\u00fcsten", "target": "t\u00fcrkiye", "value": 68 },
+    { "source": "vir\u00fcsten", "target": "corona", "value": 76 },
+    { "source": "vir\u00fcsten", "target": "kayb\u0131", "value": 66 },
+    { "source": "vir\u00fcsten", "target": "daki\u0307ka", "value": 35 },
+    { "source": "vir\u00fcsten", "target": "haberi\u0307", "value": 34 },
+    {
+      "source": "vir\u00fcsten",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 1
+    },
+    { "source": "vir\u00fcsten", "target": "bakan\u0131", "value": 6 },
+    {
+      "source": "vir\u00fcsten",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 2
+    },
+    { "source": "vir\u00fcsten", "target": "tablosu", "value": 1 },
+    { "source": "vir\u00fcsten", "target": "bakan", "value": 1 },
+    { "source": "vir\u00fcsten", "target": "sa\u011fl\u0131k", "value": 4 },
+    { "source": "vir\u00fcsten", "target": "bug\u00fcn", "value": 1 },
+    {
+      "source": "vir\u00fcsten",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 2
+    },
+    { "source": "ili\u015fkin", "target": "ba\u015fkan\u0131", "value": 4 },
+    { "source": "ili\u015fkin", "target": "sa\u011fl\u0131k", "value": 4 },
+    { "source": "ili\u015fkin", "target": "a\u00e7\u0131klama", "value": 48 },
+    { "source": "ili\u015fkin", "target": "daki\u0307ka", "value": 20 },
+    { "source": "ili\u015fkin", "target": "haberi\u0307", "value": 19 },
+    { "source": "ili\u015fkin", "target": "\u015fehit", "value": 1 },
+    { "source": "ili\u015fkin", "target": "eyl\u00fcl", "value": 1 },
+    { "source": "ili\u015fkin", "target": "parti", "value": 2 },
+    { "source": "ili\u015fkin", "target": "milli", "value": 1 },
+    { "source": "ili\u015fkin", "target": "bakan\u0131", "value": 4 },
+    { "source": "ili\u015fkin", "target": "t\u00fcrkiye", "value": 3 },
+    { "source": "ili\u015fkin", "target": "bakan", "value": 5 },
+    {
+      "source": "ili\u015fkin",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 8
+    },
+    { "source": "ili\u015fkin", "target": "corona", "value": 1 },
+    { "source": "ili\u015fkin", "target": "vir\u00fcs", "value": 2 },
+    {
+      "source": "ili\u015fkin",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 7
+    },
+    { "source": "ili\u015fkin", "target": "erdo\u011fan", "value": 7 },
+    {
+      "source": "ili\u015fkin",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 7
+    },
+    { "source": "ili\u015fkin", "target": "kadar", "value": 2 },
+    { "source": "ili\u015fkin", "target": "belli", "value": 2 },
+    {
+      "source": "ili\u015fkin",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 1
+    },
+    { "source": "ili\u015fkin", "target": "haziran", "value": 1 },
+    { "source": "ili\u015fkin", "target": "i\u0307dlib", "value": 6 },
+    { "source": "ili\u015fkin", "target": "karar\u0131", "value": 1 },
+    {
+      "source": "ili\u015fkin",
+      "target": "\u00e7avu\u015fo\u011flu",
+      "value": 1
+    },
+    {
+      "source": "eyl\u00fcl",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 7
+    },
+    { "source": "eyl\u00fcl", "target": "alt\u0131n", "value": 21 },
+    { "source": "eyl\u00fcl", "target": "fiyatlar\u0131", "value": 43 },
+    { "source": "eyl\u00fcl", "target": "kadar", "value": 43 },
+    { "source": "eyl\u00fcl", "target": "\u00e7eyrek", "value": 21 },
+    { "source": "eyl\u00fcl", "target": "corona", "value": 23 },
+    { "source": "eyl\u00fcl", "target": "vir\u00fcs", "value": 23 },
+    { "source": "eyl\u00fcl", "target": "tablosu", "value": 23 },
+    { "source": "eyl\u00fcl", "target": "kayb\u0131", "value": 23 },
+    { "source": "eyl\u00fcl", "target": "daki\u0307ka", "value": 6 },
+    { "source": "eyl\u00fcl", "target": "haberi\u0307", "value": 5 },
+    { "source": "eyl\u00fcl", "target": "dolar", "value": 22 },
+    { "source": "eyl\u00fcl", "target": "bug\u00fcn", "value": 38 },
+    { "source": "eyl\u00fcl", "target": "g\u00fcncel", "value": 17 },
+    { "source": "eyl\u00fcl", "target": "anl\u0131k", "value": 1 },
+    { "source": "eyl\u00fcl", "target": "belli", "value": 1 },
+    { "source": "eyl\u00fcl", "target": "milli", "value": 3 },
+    { "source": "eyl\u00fcl", "target": "ili\u015fkin", "value": 1 },
+    { "source": "eyl\u00fcl", "target": "a\u00e7\u0131klama", "value": 1 },
+    { "source": "eyl\u00fcl", "target": "bakan", "value": 1 },
+    { "source": "eyl\u00fcl", "target": "bakan\u0131", "value": 1 },
+    { "source": "eyl\u00fcl", "target": "a\u00e7\u0131klad\u0131", "value": 1 },
+    {
+      "source": "eyl\u00fcl",
+      "target": "b\u00fcy\u00fckl\u00fc\u011f\u00fcnde",
+      "value": 1
+    },
+    { "source": "eyl\u00fcl", "target": "deprem", "value": 1 },
+    { "source": "sa\u011fl\u0131k", "target": "ba\u015fkan\u0131", "value": 2 },
+    { "source": "sa\u011fl\u0131k", "target": "ili\u015fkin", "value": 4 },
+    {
+      "source": "sa\u011fl\u0131k",
+      "target": "a\u00e7\u0131klama",
+      "value": 2
+    },
+    { "source": "sa\u011fl\u0131k", "target": "bakan\u0131", "value": 44 },
+    { "source": "sa\u011fl\u0131k", "target": "t\u00fcrkiye", "value": 6 },
+    { "source": "sa\u011fl\u0131k", "target": "i\u0307stanbul", "value": 2 },
+    {
+      "source": "sa\u011fl\u0131k",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 4
+    },
+    { "source": "sa\u011fl\u0131k", "target": "daki\u0307ka", "value": 20 },
+    { "source": "sa\u011fl\u0131k", "target": "haberi\u0307", "value": 20 },
+    {
+      "source": "sa\u011fl\u0131k",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 9
+    },
+    { "source": "sa\u011fl\u0131k", "target": "corona", "value": 17 },
+    {
+      "source": "sa\u011fl\u0131k",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 7
+    },
+    {
+      "source": "sa\u011fl\u0131k",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 1
+    },
+    { "source": "sa\u011fl\u0131k", "target": "erdo\u011fan", "value": 1 },
+    { "source": "sa\u011fl\u0131k", "target": "vir\u00fcs", "value": 7 },
+    {
+      "source": "sa\u011fl\u0131k",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 2
+    },
+    { "source": "sa\u011fl\u0131k", "target": "getirildi", "value": 2 },
+    { "source": "sa\u011fl\u0131k", "target": "parti", "value": 1 },
+    { "source": "sa\u011fl\u0131k", "target": "bakan", "value": 6 },
+    {
+      "source": "sa\u011fl\u0131k",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 1
+    },
+    { "source": "sa\u011fl\u0131k", "target": "karar\u0131", "value": 1 },
+    { "source": "sa\u011fl\u0131k", "target": "vir\u00fcsten", "value": 3 },
+    { "source": "sa\u011fl\u0131k", "target": "bug\u00fcn", "value": 2 },
+    { "source": "sa\u011fl\u0131k", "target": "kayb\u0131", "value": 2 },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "daki\u0307ka",
+      "value": 27
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "haberi\u0307",
+      "value": 27
+    },
+    { "source": "\u00e7avu\u015fo\u011flu", "target": "bakan", "value": 23 },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "ba\u015fkan\u0131",
+      "value": 1
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "d\u0131\u015fi\u015fleri",
+      "value": 34
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "bakan\u0131",
+      "value": 33
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "g\u00f6r\u00fc\u015ft\u00fc",
+      "value": 20
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "t\u00fcrkiye",
+      "value": 5
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "a\u00e7\u0131klama",
+      "value": 2
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 3
+    },
+    { "source": "\u00e7avu\u015fo\u011flu", "target": "corona", "value": 1 },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "vir\u00fcsten",
+      "value": 2
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 1
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "i\u0307dlib",
+      "value": 3
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "ili\u015fkin",
+      "value": 1
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "a\u00e7\u0131klad\u0131",
+      "value": 1
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "erdo\u011fan",
+      "value": 1
+    },
+    {
+      "source": "\u00e7avu\u015fo\u011flu",
+      "target": "ter\u00f6rist",
+      "value": 1
+    },
+    { "source": "\u00e7avu\u015fo\u011flu", "target": "etkisiz", "value": 1 },
+    { "source": "haziran", "target": "a\u00e7\u0131kland\u0131", "value": 6 },
+    { "source": "haziran", "target": "dolar", "value": 22 },
+    { "source": "haziran", "target": "bug\u00fcn", "value": 30 },
+    { "source": "haziran", "target": "kadar", "value": 38 },
+    { "source": "haziran", "target": "fiyatlar\u0131", "value": 41 },
+    { "source": "haziran", "target": "\u00e7eyrek", "value": 20 },
+    { "source": "haziran", "target": "alt\u0131n", "value": 20 },
+    { "source": "haziran", "target": "anl\u0131k", "value": 12 },
+    { "source": "haziran", "target": "g\u00fcncel", "value": 21 },
+    { "source": "haziran", "target": "milli", "value": 4 },
+    { "source": "haziran", "target": "corona", "value": 16 },
+    { "source": "haziran", "target": "vir\u00fcs", "value": 15 },
+    { "source": "haziran", "target": "tablosu", "value": 14 },
+    { "source": "haziran", "target": "kayb\u0131", "value": 15 },
+    { "source": "haziran", "target": "daki\u0307ka", "value": 12 },
+    { "source": "haziran", "target": "haberi\u0307", "value": 10 },
+    { "source": "haziran", "target": "t\u00fcrkiye", "value": 4 },
+    { "source": "haziran", "target": "ili\u015fkin", "value": 1 },
+    { "source": "a\u011fustos", "target": "daki\u0307ka", "value": 4 },
+    { "source": "a\u011fustos", "target": "haberi\u0307", "value": 4 },
+    { "source": "a\u011fustos", "target": "bakan", "value": 1 },
+    { "source": "a\u011fustos", "target": "dolar", "value": 22 },
+    {
+      "source": "a\u011fustos",
+      "target": "a\u00e7\u0131kland\u0131",
+      "value": 3
+    },
+    { "source": "a\u011fustos", "target": "corona", "value": 22 },
+    { "source": "a\u011fustos", "target": "vir\u00fcs", "value": 22 },
+    { "source": "a\u011fustos", "target": "tablosu", "value": 22 },
+    { "source": "a\u011fustos", "target": "kayb\u0131", "value": 22 },
+    {
+      "source": "a\u011fustos",
+      "target": "cumhurba\u015fkan\u0131",
+      "value": 1
+    },
+    { "source": "a\u011fustos", "target": "erdo\u011fan", "value": 1 },
+    { "source": "a\u011fustos", "target": "bug\u00fcn", "value": 35 },
+    { "source": "a\u011fustos", "target": "kadar", "value": 37 },
+    { "source": "a\u011fustos", "target": "fiyatlar\u0131", "value": 38 },
+    { "source": "a\u011fustos", "target": "\u00e7eyrek", "value": 16 },
+    { "source": "a\u011fustos", "target": "alt\u0131n", "value": 17 },
+    { "source": "a\u011fustos", "target": "g\u00fcncel", "value": 15 },
+    { "source": "a\u011fustos", "target": "anl\u0131k", "value": 7 },
+    { "source": "a\u011fustos", "target": "milli", "value": 2 },
+    {
+      "source": "a\u011fustos",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 1
+    },
+    {
+      "source": "a\u011fustos",
+      "target": "bakanl\u0131\u011f\u0131",
+      "value": 1
+    },
+    {
+      "source": "a\u011fustos",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 1
+    },
+    { "source": "a\u011fustos", "target": "bakan\u0131", "value": 1 },
+    { "source": "a\u011fustos", "target": "belli", "value": 1 },
+    { "source": "\u015fehit", "target": "ili\u015fkin", "value": 1 },
+    { "source": "\u015fehit", "target": "cumhurba\u015fkan\u0131", "value": 4 },
+    { "source": "\u015fehit", "target": "daki\u0307ka", "value": 18 },
+    { "source": "\u015fehit", "target": "haberi\u0307", "value": 18 },
+    { "source": "\u015fehit", "target": "operasyonu", "value": 2 },
+    { "source": "\u015fehit", "target": "ter\u00f6rist", "value": 2 },
+    { "source": "\u015fehit", "target": "etkisiz", "value": 1 },
+    { "source": "\u015fehit", "target": "getirildi", "value": 1 },
+    { "source": "\u015fehit", "target": "i\u0307dlib", "value": 16 },
+    { "source": "\u015fehit", "target": "bakan", "value": 1 },
+    {
+      "source": "\u015fehit",
+      "target": "i\u0307\u00e7i\u015fleri",
+      "value": 1
+    },
+    { "source": "\u015fehit", "target": "erdo\u011fan", "value": 3 },
+    {
+      "source": "\u015fehit",
+      "target": "a\u00e7\u0131klamas\u0131",
+      "value": 1
+    },
+    { "source": "\u015fehit", "target": "g\u00f6zalt\u0131", "value": 1 },
+    { "source": "\u015fehit", "target": "karar\u0131", "value": 1 },
+    { "source": "\u015fehit", "target": "t\u00fcrkiye", "value": 1 },
+    { "source": "\u015fehit", "target": "temmuz", "value": 2 },
+    { "source": "\u015fehit", "target": "a\u00e7\u0131klad\u0131", "value": 1 },
+    { "source": "parti", "target": "alt\u0131n", "value": 1 },
+    { "source": "parti", "target": "karar\u0131", "value": 2 },
+    { "source": "parti", "target": "kadar", "value": 1 },
+    { "source": "parti", "target": "daki\u0307ka", "value": 26 },
+    { "source": "parti", "target": "haberi\u0307", "value": 26 },
+    { "source": "parti", "target": "a\u00e7\u0131klamas\u0131", "value": 7 },
+    { "source": "parti", "target": "erdo\u011fan", "value": 2 },
+    { "source": "parti", "target": "ili\u015fkin", "value": 2 },
+    { "source": "parti", "target": "a\u00e7\u0131klama", "value": 3 },
+    { "source": "parti", "target": "t\u00fcrkiye", "value": 4 },
+    { "source": "parti", "target": "ba\u015fkan\u0131", "value": 1 },
+    { "source": "parti", "target": "vir\u00fcs", "value": 3 },
+    { "source": "parti", "target": "cumhurba\u015fkan\u0131", "value": 3 },
+    { "source": "parti", "target": "i\u0307dlib", "value": 3 }
+  ]
+}
